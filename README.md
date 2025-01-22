@@ -1,4 +1,4 @@
-This is a clone of Spotify in which i tried to make a perfect replica of the Spotify.
-<be>I have used Html,Javascript,Css  to clone this .
-<br>The external Css  was used in this as it contains loads of styling.
+This is a clone of Spotify which I tried to make a perfect replica of  Spotify.
+<br>I have cloned this with HTML, Javascript, and CSS.
+<br>The external CSS  was used as it contains loads of styling.
 <br>Hope you like this.
